@@ -1,10 +1,16 @@
-## SA-CountryPicker
+## SA-CountryPicker-SwiftUI
+
+[![Build Status](https://img.shields.io/badge/platforms-iOS%20%7C%20tvOS%20%7C%20macOS%20%7C%20watchOS-green.svg)](https://github.com/Jinxiansen/SwiftUI)
+[![Swift](https://img.shields.io/badge/Swift-5.1-orange.svg)](https://swift.org)
+[![Xcode](https://img.shields.io/badge/Xcode-11.0-blue.svg)](https://developer.apple.com/xcode)
 
 
 
 <img src= "images/Simulator Screenshot - iPhone 14 Pro - 2023-08-15 at 19.13.54.png" width="30%"></img>
 <img src="images/Simulator Screenshot - iPhone 14 Pro - 2023-08-15 at 19.13.57.png" width="30%"></img>
 <img src="images/Simulator Screenshot - iPhone 14 Pro - 2023-08-15 at 19.14.15.png" width="30%"></img>
+
+
 
 
 - it is simple Country picker .
@@ -25,4 +31,7 @@
 - Picker 
 
 
+## Installation 📱
+
+- Manually: add Source Folder in your app 
 
